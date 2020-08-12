@@ -1,0 +1,2 @@
+# npmserver-test
+npm install
